@@ -28,5 +28,13 @@ Make sure your shared information cannot be searched in Google within three minu
 
 For example, commands for create anaconda virtual enviroment VS Problems encountered when creating anaconda virtual environments, the later one is recommend to share in this repository.
 
+:octocat: **How to collaborate?**
+1. 一般情况下，将想分享的内容提交到对应的文件夹分类里就可以了。
+2. 遇到想删除或是调整的非本人的提交，一定联系对应的同学一起讨论后做出修改提交。（意思就是不要随便删掉或调整别人的提交）
+3. 如何提交：可以试试[GitHub Desktop](https://desktop.github.com/), 可视化的使用github或git的桌面客户端。
+4. 遇到任何问题，可以提交issue。
+5. 新增的文件夹或者文件请统一使用英文命名，文档内容中英文都可以。
+6. 提交内容时请写简单注释，如 提交overleaf的使用小tips。
+
 ---
 Please contact mustresearch8@gmail.com if you have any questions!
